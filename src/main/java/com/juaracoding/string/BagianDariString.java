@@ -14,6 +14,8 @@ public class BagianDariString {
         String strThird = "Welcome";
 //        System.out.println(strThird.substring(0,strThird.length()-2));
         System.out.println(strThird.substring(0,5));
+        System.out.println(strThird.substring(5));
+
         /*
         index awal
         0=w
